@@ -1,4 +1,0 @@
-testando texto
-print(print: abc)
-{print:aspas é um ótimo meio de separar o texto.
-nicolas tesla
